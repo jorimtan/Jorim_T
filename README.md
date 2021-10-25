@@ -14,7 +14,7 @@
 
 ![Picture of Jorim](http://jorimtan.com/wp-content/uploads/2013/03/jorimtan-about-header2.jpg)
 
-<img src="https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png" width=50%>
+<!-- <img src="https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png" width=50%> -->
 
 <!-- Add your details -->
 
