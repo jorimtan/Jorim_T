@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![Picture of Jorim](http://jorimtan.com/wp-content/uploads/2013/03/jorimtan-about-header2.jpg =250x250)
+![Picture of Jorim](http://jorimtan.com/wp-content/uploads/2013/03/jorimtan-about-header2.jpg){:width="50%"}
 
 <!-- Add your details -->
 
