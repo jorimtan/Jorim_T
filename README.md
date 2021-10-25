@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](http://jorimtan.com/wp-content/uploads/2013/03/jorimtan-about-header2.jpg img width="pixels")
+![alt text](http://jorimtan.com/wp-content/uploads/2013/03/jorimtan-about-header2.jpg)
 
 <!-- Add your details -->
 
