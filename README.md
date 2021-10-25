@@ -12,7 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![Picture of Jorim](https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png?s=200)
+![Picture of Jorim](https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png)
+<img src="https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png" width="200">
 
 <!-- Add your details -->
 
